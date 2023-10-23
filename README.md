@@ -1,12 +1,22 @@
-# SpaceWar
+# 🚀 SpaceWar 🚀
+## HECHO POR JUAN FERNANDO ALVAREZ GOMEZ 👨‍💻
+### Test Python Tutor 🎮
+SpaceWar es un emocionante juego multijugador en el que te enfrentarás a batallas espaciales épicas con dos naves estelares. Tu objetivo es eliminar a tu oponente antes de que ellos te derroten. ¡Prepárate para una experiencia galáctica llena de acción!
 
-## HECHO POR JUAN FERNANDO ALVAREZ GOMEZ 
+## Instrucciones 📜
+### Movimientos 🌌
+Controla tu nave con los siguientes controles:
 
-### Test Python Tutor
+#### Jugador 1:
+Movimiento: Utiliza las teclas AWSD
+Disparo: Pulsa la tecla X
+#### Jugador 2:
+Movimiento: Usa las Flechas de Movimiento (↑, ↓, ←, →)
+Disparo: Pulsa la tecla -
+Recuerda que las naves no pueden cruzar la línea central en la pantalla, ¡así que ten cuidado con tu posición!
 
-El juego es multijugador y consiste en dos naves que se pelean con disparos, y no pueden cruzar la línea central nunca.
-Gana la que más disparos acierte en el enemigo
+### Objetivo 🎯
+El objetivo principal del juego es acertar la mayor cantidad de disparos en tu enemigo. ¡Demuestra tus habilidades de combate espacial y derrota a tu oponente para convertirte en el campeón intergaláctico!
 
-MOVIMIENTOS: AWSD y Flechas de Movimiento <^>
-
-DISPAROS: X y -
+## Requisitos 🛰️
+Asegúrate de tener Pygame en tu IDE.
